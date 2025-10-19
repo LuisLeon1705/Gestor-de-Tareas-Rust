@@ -1,0 +1,49 @@
+Guía de Comandos CLI To-Do (Implementado en Rust con Clap)
+Para ejecutar la aplicación, use el ejecutable generado (por ejemplo, 'trabajo-rust' o 'trabajo-rust.exe') dentro de la carpeta 'target/release/' después de ejecutar 'cargo build --release'.
+
+Nota, desde la carpeta release usar "Trabajo-rust.exe".
+
+1. Añadir Tarea (Add)
+Añade una nueva tarea con la descripción especificada.
+
+Sintaxis:
+./trabajo-rust add --desc "<DESCRIPCION>"
+
+Ejemplo:
+./trabajo-rust add --desc "Enviar reporte mensual a Recursos Humanos"
+
+2. Listar Tareas (List)
+Muestra todas las tareas registradas con su ID, descripción y estado.
+
+Sintaxis:
+./trabajo-rust list
+
+3. Cambiar Estado (Status)
+Actualiza el estado de una tarea específica (pendiente, en proceso, finalizada).
+
+Sintaxis:
+./trabajo-rust status --id <ID> --state <ESTADO>
+
+Ejemplo (marcar como finalizada):
+./trabajo-rust status --id 3 --state finalizada
+
+Ejemplo (marcar como en proceso):
+./trabajo-rust status --id 1 --state en proceso
+
+4. Editar Descripción (Edit)
+Cambia el texto de la descripción de una tarea existente.
+
+Sintaxis:
+./trabajo-rust edit --id <ID> --desc "<NUEVA_DESCRIPCION>"
+
+Ejemplo:
+./trabajo-rust edit --id 2 --desc "Revisar y modificar el diseño web del footer"
+
+5. Eliminar Tarea (Delete)
+Elimina una tarea permanentemente utilizando su ID.
+
+Sintaxis:
+./trabajo-rust delete --id <ID>
+
+Ejemplo:
+./trabajo-rust delete --id 4

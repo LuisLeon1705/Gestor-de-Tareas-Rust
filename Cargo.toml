@@ -1,0 +1,10 @@
+[package]
+name = "trabajo-rust" # Nombre del ejecutable
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+clap = { version = "4.5", features = ["derive"] } # Para analizar argumentos CLI
+serde = { version = "1.0", features = ["derive"] } # Para serialización (guardar/cargar)
+serde_json = "1.0" # Para guardar los datos en formato JSON
+chrono = { version = "0.4", features = ["serde"] } # Para manejar fechas y horas

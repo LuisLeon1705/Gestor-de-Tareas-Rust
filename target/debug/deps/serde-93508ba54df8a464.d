@@ -1,0 +1,14 @@
+C:\Users\leonp\OneDrive\Escritorio\Tarea Maria\Rust\Trabajo\target\debug\deps\serde-93508ba54df8a464.d: C:\Users\leonp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\leonp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\leonp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\leonp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\leonp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\leonp\OneDrive\Escritorio\Tarea\ Maria\Rust\Trabajo\target\debug\build\serde-15a02bf4066364b5\out/private.rs
+
+C:\Users\leonp\OneDrive\Escritorio\Tarea Maria\Rust\Trabajo\target\debug\deps\libserde-93508ba54df8a464.rlib: C:\Users\leonp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\leonp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\leonp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\leonp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\leonp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\leonp\OneDrive\Escritorio\Tarea\ Maria\Rust\Trabajo\target\debug\build\serde-15a02bf4066364b5\out/private.rs
+
+C:\Users\leonp\OneDrive\Escritorio\Tarea Maria\Rust\Trabajo\target\debug\deps\libserde-93508ba54df8a464.rmeta: C:\Users\leonp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\leonp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\leonp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\leonp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\leonp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\leonp\OneDrive\Escritorio\Tarea\ Maria\Rust\Trabajo\target\debug\build\serde-15a02bf4066364b5\out/private.rs
+
+C:\Users\leonp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs:
+C:\Users\leonp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs:
+C:\Users\leonp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs:
+C:\Users\leonp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs:
+C:\Users\leonp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs:
+C:\Users\leonp\OneDrive\Escritorio\Tarea\ Maria\Rust\Trabajo\target\debug\build\serde-15a02bf4066364b5\out/private.rs:
+
+# env-dep:OUT_DIR=C:\\Users\\leonp\\OneDrive\\Escritorio\\Tarea Maria\\Rust\\Trabajo\\target\\debug\\build\\serde-15a02bf4066364b5\\out
