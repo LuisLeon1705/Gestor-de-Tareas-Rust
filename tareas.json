@@ -1,51 +1,82 @@
 [
   {
     "id": 1,
-    "descripcion": "Comprar una leche",
-    "fecha_creacion": "2025-10-10T14:13:09.837104-04:00",
+    "nombre": "Comprar ingredientes para la cena",
+    "descripcion_detallada": "Leche, huevos, pan y pollo.",
+    "fecha_creacion": "2025-10-18T09:00:00-04:00",
     "estado": "pendiente",
-    "fecha_finalizacion": "0001-01-01T00:00:00Z"
+    "fecha_finalizacion": null
   },
   {
     "id": 2,
-    "descripcion": "Comprar una leche",
-    "fecha_creacion": "2025-10-10T14:15:08.2030047-04:00",
-    "estado": "pendiente",
-    "fecha_finalizacion": "0001-01-01T00:00:00Z"
+    "nombre": "Pagar la factura de electricidad",
+    "descripcion_detallada": "Vence el día 20.",
+    "fecha_creacion": "2025-10-18T10:30:00-04:00",
+    "estado": "finalizada",
+    "fecha_finalizacion": "2025-10-18T11:00:00-04:00"
   },
   {
     "id": 3,
-    "descripcion": "Comprar una leche",
-    "fecha_creacion": "2025-10-10T14:16:51.4258773-04:00",
-    "estado": "pendiente",
-    "fecha_finalizacion": "0001-01-01T00:00:00Z"
+    "nombre": "Estudiar para el examen de Rust",
+    "descripcion_detallada": "Revisar los capítulos sobre 'ownership' y 'lifetimes'.",
+    "fecha_creacion": "2025-10-19T14:00:00-04:00",
+    "estado": "en proceso",
+    "fecha_finalizacion": null
   },
   {
     "id": 4,
-    "descripcion": "Comprar huevos y pan",
-    "fecha_creacion": "2025-10-10T14:20:15.6538476-04:00",
+    "nombre": "Llamar al banco",
+    "descripcion_detallada": null,
+    "fecha_creacion": "2025-10-19T15:00:00-04:00",
     "estado": "pendiente",
-    "fecha_finalizacion": "0001-01-01T00:00:00Z"
+    "fecha_finalizacion": null
   },
   {
     "id": 5,
-    "descripcion": "Comprar huevos y pan",
-    "fecha_creacion": "2025-10-10T14:20:46.3647625-04:00",
-    "estado": "pendiente",
-    "fecha_finalizacion": "0001-01-01T00:00:00Z"
+    "nombre": "Hacer ejercicio",
+    "descripcion_detallada": "30 minutos de cardio en la mañana.",
+    "fecha_creacion": "2025-10-20T07:00:00-04:00",
+    "estado": "finalizada",
+    "fecha_finalizacion": "2025-10-20T07:35:00-04:00"
   },
   {
     "id": 6,
-    "descripcion": "Comprar huevos y pan",
-    "fecha_creacion": "2025-10-10T14:22:05.7776493-04:00",
-    "estado": "pendiente",
-    "fecha_finalizacion": "0001-01-01T00:00:00Z"
+    "nombre": "Preparar la presentación del proyecto",
+    "descripcion_detallada": "Terminar las diapositivas 5 a 10.",
+    "fecha_creacion": "2025-10-20T09:15:00-04:00",
+    "estado": "en proceso",
+    "fecha_finalizacion": null
   },
   {
     "id": 7,
-    "descripcion": "Comprar huevos y pan",
-    "fecha_creacion": "2025-10-10T14:22:58.0945823-04:00",
+    "nombre": "Sacar la basura",
+    "descripcion_detallada": null,
+    "fecha_creacion": "2025-10-20T10:00:00-04:00",
     "estado": "pendiente",
-    "fecha_finalizacion": "0001-01-01T00:00:00Z"
+    "fecha_finalizacion": null
+  },
+  {
+    "id": 8,
+    "nombre": "Leer libro 'El nombre del viento'",
+    "descripcion_detallada": "Llegar al capítulo 10.",
+    "fecha_creacion": "2025-10-20T11:00:00-04:00",
+    "estado": "pendiente",
+    "fecha_finalizacion": null
+  },
+  {
+    "id": 9,
+    "nombre": "Enviar correo a María",
+    "descripcion_detallada": "Confirmar la reunión del viernes.",
+    "fecha_creacion": "2025-10-20T11:30:00-04:00",
+    "estado": "finalizada",
+    "fecha_finalizacion": "2025-10-20T11:32:00-04:00"
+  },
+  {
+    "id": 10,
+    "nombre": "Limpiar la cocina",
+    "descripcion_detallada": "Lavar platos y barrer el suelo.",
+    "fecha_creacion": "2025-10-20T11:45:00-04:00",
+    "estado": "pendiente",
+    "fecha_finalizacion": null
   }
 ]
