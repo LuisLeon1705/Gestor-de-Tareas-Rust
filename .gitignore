@@ -1,0 +1,22 @@
+# Compilación y artefactos de Rust
+/target/
+
+# Archivos de respaldo de Cargo
+**/*.rs.bk
+*.bk
+
+# Archivos temporales y de depuración
+*.pdb
+
+# Editores e IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+
+# Archivos de sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
